@@ -51,10 +51,14 @@ Here are some ideas to get you started:
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+![Makefile](https://img.shields.io/badge/Makefile-05122A?style=flat&logo=make)
+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![NetBeans](https://img.shields.io/badge/NetBeans-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
+
 ![Miro](https://img.shields.io/badge/Miro-05122A?style=flat&logo=miro)
 ![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-05122A?style=flat&logo=davinci-resolve)
