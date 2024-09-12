@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=sql)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
 
 
 ### Frameworks and Libraries
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Ursina Engine](https://img.shields.io/badge/Ursina%20Engine-05122A?style=flat&logo=ursina)
 
-
+---
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -56,6 +56,13 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![NetBeans](https://img.shields.io/badge/NetBeans-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-05122A?style=flat&logo=miro)
+
+---
+
+### AI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-FFB13B?style=for-the-badge&logo=leonardo-ai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
