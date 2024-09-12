@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=sql)
 
 
 ### Frameworks and Libraries
