@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello, I'm Dibeo!
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20me&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20me&style=social)](https://github.com/Dibeo)
 
 ---
 
