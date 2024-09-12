@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 💻 About Me
 
 - 🌍 I’m from **France**
-- 💼 I’m currently working a **student**
+- 💼 I’m currently a **computer science student**
 - 🏆 I love working on **video game or space related project**
 - 🔭 I’m interested in **military engineering**
 
