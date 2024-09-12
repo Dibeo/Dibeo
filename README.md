@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 
 ### Frameworks and Libraries
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)&nbsp;
+![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte)&nbsp;
 
 
 ### Tools
