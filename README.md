@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
 
+---
 
 ### Frameworks and Libraries
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte)&nbsp;
