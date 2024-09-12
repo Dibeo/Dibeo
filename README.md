@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 ---
 
 ### AI
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-FFB13B?style=for-the-badge&logo=leonardo-ai&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai)
+![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-05122A?style=flat&logo=leonardo-ai)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-05122A?style=flat&logo=microsoft)
 
 ---
 
