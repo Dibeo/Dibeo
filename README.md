@@ -56,6 +56,9 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![NetBeans](https://img.shields.io/badge/NetBeans-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-05122A?style=flat&logo=miro)
+![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-05122A?style=flat&logo=davinci-resolve)
+
 
 ---
 
