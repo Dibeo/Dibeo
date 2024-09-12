@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
 ### Frameworks and Libraries
-![Svelte](https://img.shields.io/badge/-React-05122A?style=flat&logo=svele)&nbsp;
+![Svelte](![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte)&nbsp;
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
