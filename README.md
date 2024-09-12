@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte)&nbsp;
+![Ursina Engine](https://img.shields.io/badge/Ursina%20Engine-05122A?style=flat&logo=ursina)
+
 
 
 ### Tools
