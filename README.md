@@ -79,7 +79,10 @@ Here are some ideas to get you started:
 ### [Dungeons, Dragons & Dimensions]([https://github.com/yourusername/project1](https://github.com/Dibeo/DDD-Dungeons-Dragons-Dimensions))
 **Description**: It's a basic minecraft modpack, a fun way to use JSON and JavaScript
 
-#### I currently don't have any other public repo
+#### VocaLearner
+**Description**: It's a basic android app in Kotlin to help you revise french to english and english to french vocabulary.
+
+*To-Do* make it so people can add there own vocabulary list.
 
 ---
 
