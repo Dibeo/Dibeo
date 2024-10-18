@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 ### Frameworks and Libraries
 ![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Ursina Engine](https://img.shields.io/badge/Ursina%20Engine-05122A?style=flat&logo=ursina)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 
 ---
 
