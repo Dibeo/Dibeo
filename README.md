@@ -32,48 +32,45 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)&nbsp;
+![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql)
 
 ---
 
 ### Frameworks and Libraries
-![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte)&nbsp;
-![Ursina Engine](https://img.shields.io/badge/Ursina%20Engine-05122A?style=flat&logo=ursina)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte)&nbsp;
+![Ursina Engine](https://img.shields.io/badge/Ursina%20Engine-3B2E5A?style=flat&logo=ursina)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)&nbsp;
 
 ---
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=make)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio)&nbsp;
+![NetBeans](https://img.shields.io/badge/NetBeans-00599C?style=flat&logo=apache-netbeans-ide)&nbsp;
 
-![Makefile](https://img.shields.io/badge/Makefile-05122A?style=flat&logo=make)
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![NetBeans](https://img.shields.io/badge/NetBeans-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
-
-![Miro](https://img.shields.io/badge/Miro-05122A?style=flat&logo=miro)
-![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-05122A?style=flat&logo=davinci-resolve)
-
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva)&nbsp;
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-F07C00?style=flat&logo=davinci-resolve)&nbsp;
 
 ---
 
 ### AI
-![ChatGPT](https://img.shields.io/badge/ChatGPT-05122A?style=flat&logo=openai)
-![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-05122A?style=flat&logo=leonardo-ai)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-05122A?style=flat&logo=microsoft)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai)&nbsp;
+![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-FFB13B?style=flat&logo=leonardo-ai)&nbsp;
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=flat&logo=microsoft)&nbsp;
+
 
 ---
 
