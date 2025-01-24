@@ -1,19 +1,3 @@
-<!--## Hi there 👋
-
-
-**Dibeo/Dibeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hello, I'm Dibeo!
 
 [![GitHub followers](https://img.shields.io/github/followers/Dibeo?label=Follow%20me&style=social)](https://github.com/Dibeo)
@@ -24,8 +8,20 @@ Here are some ideas to get you started:
 
 - 🌍 I’m from **France**
 - 💼 I’m currently a **computer science student**
-- 🏆 I love working on **video game or space related project**
+- 🏆 I love working on **video game or space-related projects**
 - 🔭 I’m interested in **military engineering**
+- 🎯 My goal is to combine creativity and technology to solve real-world problems, especially in innovative fields like gaming and aerospace.
+- 🧠 I am always looking to **learn new technologies** and **collaborate with like-minded developers** to create impactful solutions.
+
+---
+
+## 🚀 My Goals
+
+- **Short-term Goals:**
+  - Build a portfolio showcasing my projects in game development and app development. *currently on it*
+- **Long-term Goals:**
+  - Work on large-scale projects in military or space engineering.
+  - Develop my own video game from scratch and publish it (on multiple platforms if possible).
 
 ---
 
@@ -75,24 +71,37 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-### [Dungeons, Dragons & Dimensions]([https://github.com/yourusername/project1](https://github.com/Dibeo/DDD-Dungeons-Dragons-Dimensions))
-**Description**: It's a basic minecraft modpack, a fun way to use JSON and JavaScript
+### [Dungeons, Dragons & Dimensions](https://github.com/Dibeo/DDD-Dungeons-Dragons-Dimensions)
+**Description**: A Minecraft modpack that uses JSON and JavaScript to create a unique gameplay experience.
 
-#### VocaLearner
-**Description**: It's a basic android app in Kotlin to help you revise french to english and english to french vocabulary.
+- **Challenges:** Learning how to integrate scripts into Minecraft.
+- **Future Plans:** Expand the modpack with more features and improve documentation.
 
-*To-Do* make it so people can add there own vocabulary list.
+### VocaLearner
+**Description**: A simple Android app written in Kotlin to help users revise French-to-English and English-to-French vocabulary.
+
+- **Challenges:** Optimizing the user interface for different screen sizes.
+- **Future Plans:** Allow users to upload their own vocabulary lists and track learning progress.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibeo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibeo&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Social Links
 
-- Wakatime : (https://wakatime.com/@Dibeo)
+- [Wakatime](https://wakatime.com/@Dibeo)
 
 ---
+
+## 🏖️ Fun Facts & Hobbies
+
+- 🎮 I love playing and developing video games.
+- 📚 I enjoy reading about military technology and space exploration.
+- 🧗‍♂️ I am passionate about outdoor activities like hiking and climbing.
+- 🖌️ I have a creative side and enjoy graphic design in my free time (but I have not talent in it).
+
