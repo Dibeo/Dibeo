@@ -102,6 +102,6 @@
 
 - 🎮 I love playing and developing video games.
 - 📚 I enjoy reading about military technology and space exploration.
-- 🧗‍♂️ I am passionate about outdoor activities like hiking and climbing.
+- 🧗‍♂️ I am passionate about outdoor activities like hiking and skiing.
 - 🖌️ I have a creative side and enjoy graphic design in my free time (but I have not talent in it).
 
