@@ -137,8 +137,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibeo&show_icons=true&theme=nord_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibeo&layout=compact&theme=nord_dark)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dibeo&theme=nord_dark)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dibeo&theme=nord_dark)
 ![Profile's details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibeo&theme=nord_dark)
 
 ---
