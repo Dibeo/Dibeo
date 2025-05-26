@@ -59,6 +59,7 @@
 ![Ursina Engine](https://img.shields.io/badge/Ursina%20Engine-3B2E5A?style=flat&logo=ursina&logoColor=white)
 
 #### JS/TS
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
@@ -122,10 +123,17 @@
 
 **Description**: A Minecraft modpack that uses JSON and JavaScript to create a unique gameplay experience.
 
-- **Challenges:** Learning how to integrate scripts into Minecraft.
-- **Future Plans:** Expand the modpack with more features and improve documentation.
+- **Challenges:** Learning how to integrate scripts into pre-made software (here Minecraft).
 
-### VocaLearner
+### [WeatherSite](https://github.com/Dibeo/https://github.com/Dibeo/weather_app)
+[![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14)
+
+**Description**: A easy front-end app, to see weather using the API from Openweather.
+
+- **Challenges:** Learn React and Bootstrap.
+- **Future Plans:** Add pression, amount of rain,...
+
+### [VocaLearner](https://github.com/Dibeo/VocaLearner)
 [![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/a9eeadad-1235-4cfb-85fd-0353c6dcfd86.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/a9eeadad-1235-4cfb-85fd-0353c6dcfd86)
 
 **Description**: A simple Android app written in Kotlin to help users revise French-to-English and English-to-French vocabulary.
@@ -133,6 +141,13 @@
 - **Challenges:** Optimizing the user interface for different screen sizes.
 - **Future Plans:** Allow users to upload their own vocabulary lists and track learning progress.
 
+### [ToDoList](https://github.com/Dibeo/to-do-list)
+[![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/658ad89b-4459-4492-80eb-dda4ccac0a19.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/658ad89b-4459-4492-80eb-dda4ccac0a19)
+
+**Description**: A easy front-end app, to make a to do list.
+
+- **Challenges:** Learn Angular.
+- **Future Plans:** Add cookie for keeping the item list in memory.
 ---
 
 ## 📊 GitHub Stats
