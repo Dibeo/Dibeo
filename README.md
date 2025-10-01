@@ -160,12 +160,15 @@
 - **Future Plans:** Add cookie for keeping the item list in memory.
 ---
 
-## 📊 GitHub Stats
+## 📊 Github Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dibeo&theme=nord_dark)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dibeo&theme=nord_dark)
 ![Profile's details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibeo&theme=nord_dark)
+---
 
+## Wakatime Stats
+![Language chart](https://wakatime.com/share/@Dibeo/42b54be0-59bc-434c-aa0e-76c20e11ef1d.svg)
 ---
 
 ## 🌐 Social Links
