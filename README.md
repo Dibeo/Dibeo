@@ -102,9 +102,9 @@
 [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
 
 #### Software
-[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-F07C00?style=flat&logo=davinci-resolve&logoColor=white)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 #### IDE
@@ -126,12 +126,12 @@
 
 ### AI
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 ![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-FFB13B?style=flat&logo=leonardo-ai&logoColor=black)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=flat&logo=microsoft&logoColor=white)
 [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](#)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
-[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 ---
 
