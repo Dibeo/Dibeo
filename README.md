@@ -160,13 +160,14 @@
 - **Challenges:** Optimizing the user interface for different screen sizes.
 - **Future Plans:** Allow users to upload their own vocabulary lists and track learning progress.
 
-### [ToDoList](https://github.com/Dibeo/to-do-list)
-[![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/658ad89b-4459-4492-80eb-dda4ccac0a19.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/658ad89b-4459-4492-80eb-dda4ccac0a19)
+###  [CV Generator Project](https://github.com/Dibeo/ClearCV)
+[![Deploy on GitHub Pages](https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml/badge.svg)](https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml) [![Run ESLint on Pull Requests](https://github.com/Dibeo/ClearCV/actions/workflows/eslint.yml/badge.svg)](https://github.com/Dibeo/ClearCV/actions/workflows/eslint.yml) [![Total dev time](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/f4bd66dc-8af2-4b37-b4d1-398982b28655.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/f4bd66dc-8af2-4b37-b4d1-398982b28655)
 
-**Description**: A easy front-end app, to make a to do list.
+**Description**: A front-end CV Editor
 
-- **Challenges:** Learn Angular.
-- **Future Plans:** Add cookie for keeping the item list in memory.
+- **Challenges**: Learn Tailwind, create pdf only css rule to print only the CV
+- **Future Plans:** More theme and multilanguage gestion
+
 ---
 
 ## 📊 Github Stats
