@@ -10,18 +10,6 @@
 - 💼 I’m currently a **computer science student**
 - 🏆 I love working on **video game or space-related projects**
 - 🔭 I’m interested in **military engineering**
-- 🎯 My goal is to combine creativity and technology to solve real-world problems, especially in innovative fields like gaming and aerospace.
-- 🧠 I am always looking to **learn new technologies** and **collaborate with like-minded developers** to create impactful solutions.
-
----
-
-## 🚀 My Goals
-
-- **Short-term Goals:**
-  - Build a portfolio showcasing my projects in game development and app development. *currently on it*
-- **Long-term Goals:**
-  - Work on large-scale projects in military or space engineering.
-  - Develop my own video game from scratch and publish it (on multiple platforms if possible).
 
 ---
 
@@ -151,6 +139,7 @@
 
 ### [WeatherSite](https://github.com/Dibeo/https://github.com/Dibeo/weather_app)
 [![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14)
+[![Deploy on Vercel](https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml/badge.svg)]([https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml](https://weather-mqnu6u7is-dibeos-projects.vercel.app))
 
 **Description**: A easy front-end app, to see weather using the API from Openweather.
 
