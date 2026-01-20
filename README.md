@@ -139,7 +139,7 @@
 
 ### [WeatherSite](https://github.com/Dibeo/https://github.com/Dibeo/weather_app)
 [![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14)
-[![Deploy on Vercel](https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml/badge.svg)]([https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml](https://weather-mqnu6u7is-dibeos-projects.vercel.app))
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://weather-mqnu6u7is-dibeos-projects.vercel.app)
 
 **Description**: A easy front-end app, to see weather using the API from Openweather.
 
