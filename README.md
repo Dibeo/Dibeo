@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Simon!
 
-[![GitHub followers](https://img.shields.io/github/followers/Dibeo?label=Follow%20me&style=social)](https://github.com/Dibeo)
+[![GitHub followers](https://img.shields.io/github/followers/Dibeo?label=Follow%20me&style=social)](https://github.com/Dibeo) 
 
 ---
 
@@ -29,6 +29,7 @@
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 
@@ -86,11 +87,13 @@
  
 #### Dev Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=make&logoColor=white)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)](#)
 [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
 
 #### Software
@@ -104,6 +107,10 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+#### Physical Tools
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)](#)
 
 #### Design
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
@@ -160,6 +167,7 @@
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dibeo&theme=nord_dark)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dibeo&theme=nord_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibeo&layout=compact&theme=nord)
 ![Profile's details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibeo&theme=nord_dark)
 ---
 
