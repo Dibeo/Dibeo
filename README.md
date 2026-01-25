@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&lines=👋+Hello,+I'm+Simon!;Computer+Science+Student;Space+%26+Game+Dev+Enthusiast" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&lines=👋+Hello,+I'm+Simon!" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://github.com/Dibeo"><img src="https://img.shields.io/github/followers/Dibeo?label=Follow&style=social" /></a>
