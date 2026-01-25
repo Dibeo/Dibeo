@@ -49,18 +49,22 @@
 
 #### [Dungeons, Dragons & Dimensions](https://github.com/Dibeo/DDD-Dungeons-Dragons-Dimensions)
 Minecraft modpack pushing the limits of JSON and JS scripting to create a unique experience.
+
 [![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/10455a06-f9bf-42f1-acb2-1e302576c3d6.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/10455a06-f9bf-42f1-acb2-1e302576c3d6)
 
 #### [WeatherSite](https://github.com/Dibeo/weather_app)
 Front-end app using Openweather API. Focused on learning React and Bootstrap.
+
 [![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/28fea486-142c-450d-91b1-c6ab8e71dc14) [![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://weather-mqnu6u7is-dibeos-projects.vercel.app)
 
 #### [VocaLearner](https://github.com/Dibeo/VocaLearner)
 Simple Android app written in Kotlin to help users revise French/English vocabulary.
+
 [![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/a9eeadad-1235-4cfb-85fd-0353c6dcfd86.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/a9eeadad-1235-4cfb-85fd-0353c6dcfd86)
 
 #### [CV Generator Project](https://github.com/Dibeo/ClearCV)
 A professional front-end CV Editor with specialized CSS rules for PDF generation.
+
 [![Deploy on GitHub Pages](https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml/badge.svg)](https://github.com/Dibeo/ClearCV/actions/workflows/deploy.yml) [![Total dev time](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/f4bd66dc-8af2-4b37-b4d1-398982b28655.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/f4bd66dc-8af2-4b37-b4d1-398982b28655)
 
 ---
